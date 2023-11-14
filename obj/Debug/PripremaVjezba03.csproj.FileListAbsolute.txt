@@ -1,0 +1,7 @@
+C:\Users\rafob\source\repos\PripremaVjezba03\bin\Debug\PripremaVjezba03.exe.config
+C:\Users\rafob\source\repos\PripremaVjezba03\bin\Debug\PripremaVjezba03.exe
+C:\Users\rafob\source\repos\PripremaVjezba03\bin\Debug\PripremaVjezba03.pdb
+C:\Users\rafob\source\repos\PripremaVjezba03\obj\Debug\PripremaVjezba03.csproj.AssemblyReference.cache
+C:\Users\rafob\source\repos\PripremaVjezba03\obj\Debug\PripremaVjezba03.csproj.CoreCompileInputs.cache
+C:\Users\rafob\source\repos\PripremaVjezba03\obj\Debug\PripremaVjezba03.exe
+C:\Users\rafob\source\repos\PripremaVjezba03\obj\Debug\PripremaVjezba03.pdb
